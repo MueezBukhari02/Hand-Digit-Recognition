@@ -4,7 +4,7 @@ A real-time digit recognition application powered by a Convolutional Neural Netw
 
 ![Python](https://img.shields.io/badge/Python-3.11-yellow)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
-![Scikit-Learn](https://img.shields.io/badge/TensorFlow-2.x-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit-learn.x-blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-4.x-maroon)
 ![Accuracy](https://img.shields.io/badge/Accuracy-99.2%25-brightgreen)
 
